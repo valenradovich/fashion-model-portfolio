@@ -91,7 +91,7 @@ const Body = () => {
                         <div className="image-container">
                             <StaticImage 
                                         layout="constrained"
-                                        src="../images/mateo_grid4.jpg"
+                                        src="../images/mateo_grid4.JPG"
                                         alt="Model picture"
                                         backgroundColor="transparent"
                                         placeholder="none"
