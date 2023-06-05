@@ -17,6 +17,7 @@ The main objective of this website is to show the model's work in a simple and m
 
 
 ## Website Images:
+![gif-fashion-model-website](https://github.com/valenradovich/fashion-model-portfolio/assets/86897297/3dbfe22d-725f-456d-aa3d-193fcdf7bd6c)
 
 
 ## Technologies:
