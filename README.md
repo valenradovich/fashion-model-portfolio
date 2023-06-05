@@ -3,7 +3,7 @@
 Visit the website clicking [here!](https://mateoradovich.netlify.app)
 
 ## Description:
-Simple, informative and minimalist website about the fashion model [*Mateo Radovich*](https://mateoradovich.netlify.app).
+Simple, informative, minimalist and full responsive website about the fashion model [*Mateo Radovich*](https://mateoradovich.netlify.app).
 The main objective of this website is to show the model's work in a simple and minimalist way, with a modern design and a very intuitive interface. Show less, say more and keep it simple to the user.
 
 ## Includes:
