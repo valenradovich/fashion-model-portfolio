@@ -15,7 +15,7 @@ const About = ({ data, location }) => {
         </div>
         <div className="body-global-wrapper">
           <br></br>
-          <p>Nací y resido en la ciudad de Mar del Plata, tengo 19 años y estoy incursionando en el mundo de la moda. Soy estudiante de Marketing, y me apasiona la posibilidad de poder conocer nuevas personas, lugares y culturas. 
+          <p className="titleimage">Nací y resido en la ciudad de Mar del Plata, tengo 19 años y estoy incursionando en el mundo de la moda. Soy estudiante de Marketing, y me apasiona la posibilidad de poder conocer nuevas personas, lugares y culturas. 
             <br></br>
             <br></br>
             <u>Medidas:</u>
